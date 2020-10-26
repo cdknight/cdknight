@@ -1,4 +1,4 @@
-# Hi, I'm Ramesh! (aka cdknight) 
+# Hi, I'm Ramesh!
 
 I do programming things sometimes. Sometimes I don't.
 
